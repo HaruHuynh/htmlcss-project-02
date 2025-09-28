@@ -523,6 +523,6 @@ a {
 .features .content .cta-btn {
     margin-top: 32px;
     min-width: 137px;
-    background: #fff;
     background-color: var(--primary-color);
+    background: #fff;
 }
