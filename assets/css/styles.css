@@ -671,6 +671,6 @@ a {
 }
 
 .blog .dot.active {
-    background: var(--primary-color);
     cursor: default;
+    background: var(--primary-color);
 }
